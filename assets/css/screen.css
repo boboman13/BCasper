@@ -843,10 +843,12 @@ body:not(.post-template) .post-title {
 
 .post-template .post-title {
     margin-bottom: 0;
+    text-align: center;
 }
 
 .post-template .post-meta {
     margin: 0;
+    text-align: center;
 }
 
 .post-template .post-date {
