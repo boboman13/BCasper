@@ -4,6 +4,11 @@ Fork of the default theme for [Ghost](http://github.com/tryghost/ghost/).
 
 To download, `git clone` the repository into the `./content/themes/` directory. 
 
+## Changes
+
+* Centered post title and date when viewing.
+* Changed hover-link color, as per pre-5.0 release.
+
 ## Copyright & License
 
 Copyright (c) 2013-2014 Ghost Foundation - Released under the MIT License.
