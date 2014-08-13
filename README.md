@@ -1,4 +1,4 @@
-# Casper
+# BCasper
 
 Fork of the default theme for [Ghost](http://github.com/tryghost/ghost/).
 
